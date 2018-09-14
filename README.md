@@ -10,8 +10,8 @@ Lord Ganesh has a very peculiar feature, he has an elephant head(resembling the 
 
 I would like to know your valuable feedback and suggestion, you can connect me on:
 
-LinkedIn
-Twitter
+* [LinkedIn](https://www.linkedin.com/in/vinaydatta2020/)
+* [Twitter](https://twitter.com/vinay4B7)
 
 ## How to recreate this work?
 * Please clone the repo to your local and run the jupyter notebook in 'conda' environment
